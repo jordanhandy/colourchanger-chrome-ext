@@ -21,7 +21,7 @@
         {
             "matches": ["https://developer.chrome.com/*"],
             "js": ["content.js", "jquery-3.5.1.min.js"],
-            "css": ["content.css"]
+            "css": ["contentTest.css"]
         }
     ],
     "permissions":[
