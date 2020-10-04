@@ -1,0 +1,9 @@
+/* This is the stylesheet as defined in the manifest that allows us
+to override the styling present on the Chrome developer pages.
+Class names are pulled from the webpage itself, using Chrome developer
+Tools */
+
+.intro {
+    font-weight: bold;
+    color: blue;
+}
